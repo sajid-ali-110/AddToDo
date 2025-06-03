@@ -61,7 +61,6 @@ function Todos() {
                 className="text-white bg-red-500 border-0 py-1 px-4 hover:bg-red-600 rounded text-md"
               >
                 Delete
-                Delete
               </button>
             </div>
           </li>
